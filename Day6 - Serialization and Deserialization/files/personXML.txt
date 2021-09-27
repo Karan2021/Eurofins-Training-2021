@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Manoj</name>
+  <age>22</age>
+  <Name>Manoj</Name>
+  <Age>22</Age>
+</Person>

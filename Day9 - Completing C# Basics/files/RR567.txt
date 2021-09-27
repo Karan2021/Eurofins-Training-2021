@@ -1,0 +1,11 @@
+Electricity Bill
+****************
+Bill no: 554839
+Consumer Number: RR567
+Consumer Name: Suhas
+Total Units: 22
+Cost Per Unit: 5.67
+Total Amount: 124.74
+Due Date: 23-10-2021
+****Thank you****
+

@@ -1,0 +1,11 @@
+Course Details
+**************
+Regno : 12345
+course : B.E.
+title : Java
+
+Regno : 23456
+course : B.E.
+title : C#
+
+

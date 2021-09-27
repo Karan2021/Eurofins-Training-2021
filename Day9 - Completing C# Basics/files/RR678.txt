@@ -1,0 +1,11 @@
+Electricity Bill
+****************
+Bill no: 664228
+Consumer Number: RR678
+Consumer Name: Manish
+Total Units: 25
+Cost Per Unit: 5.67
+Total Amount: 141.75
+Due Date: 23-10-2021
+****Thank you****
+

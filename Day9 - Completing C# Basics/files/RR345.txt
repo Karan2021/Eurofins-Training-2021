@@ -1,0 +1,11 @@
+Electricity Bill
+****************
+Bill no: 356328
+Consumer Number: RR345
+Consumer Name: Shivani
+Total Units: 12
+Cost Per Unit: 5.46
+Total Amount: 65.52
+Due Date: 23-10-2021
+****Thank you****
+

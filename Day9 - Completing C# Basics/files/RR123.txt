@@ -1,0 +1,13 @@
+Electricity Bill
+****************
+Bill no: 873964
+Consumer Number: RR123
+Consumer Name: Manoj
+Total Units: 14
+Cost Per Unit: 5.46
+Total Amount: 76.44
+Due Date: 23-10-2021
+****Thank you****
+
+
+

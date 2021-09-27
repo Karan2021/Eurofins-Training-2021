@@ -1,0 +1,11 @@
+Electricity Bill
+****************
+Bill no: 115857
+Consumer Number: RR777
+Consumer Name: Athreya
+Total Units: 16
+Cost Per Unit: 5.67
+Total Amount: 90.72
+Due Date: 24-10-2021
+****Thank you****
+
