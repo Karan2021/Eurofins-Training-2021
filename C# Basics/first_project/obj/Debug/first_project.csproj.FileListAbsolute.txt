@@ -1,0 +1,6 @@
+/Users/karna/Desktop/C# Projects/first_project/first_project/bin/Debug/first_project.exe
+/Users/karna/Desktop/C# Projects/first_project/first_project/bin/Debug/first_project.pdb
+/Users/karna/Desktop/C# Projects/first_project/first_project/obj/Debug/first_project.csproj.CoreCompileInputs.cache
+/Users/karna/Desktop/C# Projects/first_project/first_project/obj/Debug/first_project.exe
+/Users/karna/Desktop/C# Projects/first_project/first_project/obj/Debug/first_project.pdb
+/Users/karna/Desktop/C# Projects/first_project/first_project/obj/Debug/first_project.csproj.AssemblyReference.cache
