@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementApp", "EventManagementApp\EventManagementApp.csproj", "{F18675FC-AF25-4596-9ACF-9CD77A23E5F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBusiness", "EventBusiness\EventBusiness.csproj", "{90C2D10B-7E3C-4F3B-8953-FAA562B570EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDataClass", "EventDataClass\EventDataClass.csproj", "{F8FF616E-3C0F-4622-A853-5F539D8691AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18675FC-AF25-4596-9ACF-9CD77A23E5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18675FC-AF25-4596-9ACF-9CD77A23E5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18675FC-AF25-4596-9ACF-9CD77A23E5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18675FC-AF25-4596-9ACF-9CD77A23E5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C2D10B-7E3C-4F3B-8953-FAA562B570EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C2D10B-7E3C-4F3B-8953-FAA562B570EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C2D10B-7E3C-4F3B-8953-FAA562B570EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C2D10B-7E3C-4F3B-8953-FAA562B570EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FF616E-3C0F-4622-A853-5F539D8691AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FF616E-3C0F-4622-A853-5F539D8691AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FF616E-3C0F-4622-A853-5F539D8691AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FF616E-3C0F-4622-A853-5F539D8691AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02FAA1B-9816-4F0D-AA8E-EE4FFE66C9BB}
+	EndGlobalSection
+EndGlobal
